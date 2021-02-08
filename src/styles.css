@@ -1,0 +1,16 @@
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+#container {
+  margin: 0 auto;
+  width: 980px;
+}
+.logo {
+  width: 90px;
+  height: 90px;
+  float: left;
+}
